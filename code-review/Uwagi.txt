@@ -1,0 +1,14 @@
+Obsługa Wyjątku Braku Pliku
+Dodaj obsługę sytuacji, gdy otwierany plik nie istnieje. Pomaga to uniknąć awarii programu, gdy plik nie jest dostępny.
+
+Użycie Listy Zamiast IEnumerable
+Zmień typ ImportedObjects z IEnumerable na List, aby można było dynamicznie dodawać elementy do listy.
+
+Poprawa Warunku Pętli
+Zmień warunek pętli w pętli for z i <= importedLines.Count na i < importedLines.Count, aby uniknąć błędu związanego z przekroczeniem indeksu.
+
+Poprawa Logiki Przypisywania Liczby Dzieci
+Logika przypisywania liczby dzieci jest niepoprawna i wymaga poprawy, aby dokładnie zliczać dzieci dla każdego zaimportowanego obiektu.
+
+Ulepszenie Porównywania Typów
+Zastąp operator == metodą String.Equals do porównywania typów, aby uniknąć problemów związanych z wielkością liter.

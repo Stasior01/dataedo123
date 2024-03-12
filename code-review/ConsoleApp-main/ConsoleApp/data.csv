@@ -1,0 +1,1431 @@
+﻿Type;Name;Schema;ParentName;ParentType;DataType;IsNullable
+Table;SalesTaxRate;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;PersonCreditCard;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;PersonPhone;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesTerritory;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;SpecialOfferProduct_inmem;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Product;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrderHeader_inmem;Sales;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;SalesTerritoryHistory;Sales;AdventureWorks2016_EXT;DATABASE;;
+Table;ScrapReason;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;Shift;HumanResources;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductCategory;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;ShipMethod;Purchasing;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductCostHistory;Production;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;SalesOrderDetail_inmem;Sales;AdventureWorks2016_EXT;DATABASE;;
+Table;ProductDescription;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;ShoppingCartItem;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductDocument;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;DatabaseLog;dbo;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductInventory;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;SpecialOffer;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;ErrorLog;dbo;AdventureWorks2016_EXT;Database;NULL;
+Table;SpecialOffer_ondisk;Sales;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;ProductListPriceHistory;Production;AdventureWorks2016_EXT;Database;;
+Table;Address;Person;AdventureWorks2016_EXT;DATABASE;NULL;
+database;AdventureWorks2016_EXT;;;;;
+Table;SpecialOfferProduct;Sales;AdventureWorks2016_EXT;Database; ;
+Table;ProductModel;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;AddressType;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;Product_ondisk;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;StateProvince;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductModelIllustration;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;AWBuildVersion;dbo;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductModelProductDescriptionCulture;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;BillOfMaterials;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;Store;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductPhoto;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductProductPhoto;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;TransactionHistory;Production;AdventureWorks2016_EXT;Database; ;
+Table;ProductReview;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;BusinessEntity;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;TransactionHistoryArchive;Production;AdventureWorks2016_EXT;Database; ;
+Table;ProductSubcategory;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;BusinessEntityAddress;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;SpecialOfferProduct_ondisk;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;ProductVendor;Purchasing;AdventureWorks2016_EXT;Database;NULL;
+Table;BusinessEntityContact;Person;AdventureWorks2016_EXT; DATABASE; ;
+Table;UnitMeasure;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;Vendor;Purchasing;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrderHeader_ondisk;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;ContactType;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;CountryRegionCurrency;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;CountryRegion;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;WorkOrder;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;PurchaseOrderDetail;Purchasing;AdventureWorks2016_EXT;Database;NULL;
+Table;CreditCard;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Culture;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;WorkOrderRouting;Production;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;Currency;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;PurchaseOrderHeader;Purchasing;AdventureWorks2016_EXT;Database;NULL;
+Table;CurrencyRate;Sales;AdventureWorks2016_EXT;Database;NULL;
+database;pubs;;;;;
+Table;Customer;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrderDetail_ondisk;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrder_json;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Department;HumanResources;AdventureWorks2016_EXT;Database;NULL;
+Table;Document;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrderDetail;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;EmailAddress;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;Person_json;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;DemoSalesOrderDetailSeed;Demo;AdventureWorks2016_EXT;Database;NULL;
+Table;Employee;HumanResources;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrderHeader;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;DemoSalesOrderHeaderSeed;Demo;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;CustomerPII;Sales;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;EmployeeDepartmentHistory;HumanResources;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;EmployeePayHistory;HumanResources;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;Person_Temporal;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesOrderHeaderSalesReason;Sales;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;Person_Temporal_History;Person;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;Employee_Temporal;HumanResources;AdventureWorks2016_EXT;DATABASE;NULL;
+Table;SalesPerson;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Illustration;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;PhoneNumberType;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;SpecialOffer_inmem;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Employee_Temporal_History;HumanResources;AdventureWorks2016_EXT;DATABASE;NULL;
+
+Table;JobCandidate;HumanResources;AdventureWorks2016_EXT;Database;NULL;
+database;BaseballData;;;;;
+Table;Location;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;TrackingEvent;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;OrderTracking;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Password;Person;AdventureWorks2016_EXT;Database;NULL;
+Table;Product_inmem;Production;AdventureWorks2016_EXT;Database;NULL;
+Table;SalesPersonQuotaHistory;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;Person;Person;AdventureWorks2016_EXT;Database;NULL;
+table;SalesReason;Sales;AdventureWorks2016_EXT;Database;NULL;
+Table;seriespost;dbo;BaseballData;Database;NULL;
+Table;halloffame;dbo;BaseballData;Database;NULL;
+Table;allstarfull;dbo;BaseballData;Database;NULL;
+Table;teams;dbo;BaseballData;DATABASE;NULL;
+Table;managers;dbo;BaseballData;DATABASE;NULL;
+Table;appearances;dbo;BaseballData;DATABASE;NULL;
+Table;managershalf;dbo;BaseballData;DATABASE;NULL;
+Table;players;dbo;BaseballData;DATABASE;NULL;
+Table;awardsmanagers;dbo;BaseballData;DATABASE;NULL;
+Table;awardsplayers;dbo;BaseballData;DATABASE;NULL;
+TABLE;awardssharemanagers;dbo;BaseballData;Database;NULL;
+Table;awardsshareplayers;dbo;BaseballData;Database;NULL;
+Table;teamsfranchises;dbo;BaseballData;Database;NULL;
+Table;batting;dbo;BaseballData;Database;NULL;
+Table;teamshalf;dbo;BaseballData;Database;NULL;
+Table;pitching;dbo;BaseballData;Database;NULL;
+Table;els_teamnames;dbo;BaseballData;Database;NULL;
+Table;battingpost;dbo;BaseballData;Database;NULL;
+Table;pitchingpost;dbo;BaseballData;Database;NULL;
+database;WideWorldImporters;;;;;
+Table;fielding;dbo;BaseballData;Database;NULL;
+Table;schoolsplayers;dbo;BaseballData;Database;NULL;
+Table;schools;dbo;BaseballData;Database;NULL;
+Table;salaries;dbo;BaseballData;Database;NULL;
+Table;fieldingof;dbo;BaseballData;Database;NULL;
+Table;fieldingpost;dbo;BaseballData;Database;NULL;
+Table;Employees;dbo;Northwind;Database;;
+Table;Categories;dbo;Northwind;Database;;
+Table;Customers;dbo;Northwind;Database;;
+Table;Shippers;dbo;Northwind;Database;;
+Table;Suppliers;dbo;Northwind;Database;;
+Table;Orders;dbo;Northwind;Database;;
+Table;Products;dbo;Northwind;Database;;
+Table;Order Details;dbo;Northwind;Database;;
+Table;CustomerCustomerDemo;dbo;Northwind;Database;;
+Table;CustomerDemographics;dbo;Northwind;Database;;
+Table;Region;dbo;Northwind;Database;;
+Table;Territories;dbo;Northwind;Database;;
+Table;EmployeeTerritories;dbo;Northwind;Database;;
+Database;Northwind;;;;;
+column;Bonus;Sales;SalesPerson;TABLE;money;0
+column;BusinessEntityID;Sales;SalesPerson;TABLE;int;0
+column;CommissionPct;Sales;SalesPerson;TABLE;smallmoney;0
+column;ModifiedDate;Sales;SalesPerson;TABLE;datetime;0
+column;rowguid;Sales;SalesPerson;TABLE;uniqueidentifier;0
+column;SalesLastYear;Sales;SalesPerson;TABLE;money;0
+column;SalesQuota;Sales;SalesPerson;TABLE;money;1
+column;SalesYTD;Sales;SalesPerson;TABLE;money;0
+column;TerritoryID;Sales;SalesPerson;TABLE;int;1
+column;Diagram;Production;Illustration;TABLE;xml;1
+column;IllustrationID;Production;Illustration;TABLE;int;0
+column;ModifiedDate;Production;Illustration;TABLE;datetime;0
+column;BusinessEntityID;HumanResources;JobCandidate;TABLE;int;1
+column;JobCandidateID;HumanResources;JobCandidate;TABLE;int;0
+column;ModifiedDate;HumanResources;JobCandidate;TABLE;datetime;0
+column;Resume;HumanResources;JobCandidate;TABLE;xml;1
+column;Availability;Production;Location;TABLE;decimal;0
+column;CostRate;Production;Location;TABLE;smallmoney;0
+column;LocationID;Production;Location;TABLE;smallint;0
+column;ModifiedDate;Production;Location;TABLE;datetime;0
+column;Name;Production;Location;TABLE;Name: nvarchar;0
+column;BusinessEntityID;Sales;SalesPersonQuotaHistory;TABLE;int;0
+column;ModifiedDate;Sales;SalesPersonQuotaHistory;TABLE;datetime;0
+column;QuotaDate;Sales;SalesPersonQuotaHistory;TABLE;datetime;0
+column;rowguid;Sales;SalesPersonQuotaHistory;TABLE;uniqueidentifier;0
+column;SalesQuota;Sales;SalesPersonQuotaHistory;TABLE;money;0
+column;AdditionalContactInfo;Person;Person;TABLE;xml;1
+column;BusinessEntityID;Person;Person;TABLE;int;0
+column;Demographics;Person;Person;TABLE;xml;1
+column;EmailPromotion;Person;Person;TABLE;int;0
+column;FirstName;Person;Person;TABLE;Name: nvarchar;0
+column;LastName;Person;Person;TABLE;Name: nvarchar;0
+column;MiddleName;Person;Person;TABLE;Name: nvarchar;1
+column;ModifiedDate;Person;Person;TABLE;datetime;0
+column;NameStyle;Person;Person;TABLE;NameStyle: bit;0
+column;PersonType;Person;Person;TABLE;nchar;0
+column;rowguid;Person;Person;table;uniqueidentifier;0
+column;Suffix;Person;Person;TABLE;nvarchar;1
+column;Title;Person;Person;TABLE;nvarchar;1
+column;ModifiedDate;Sales;SalesTaxRate;TABLE;datetime;0
+column;Name;Sales;SalesTaxRate;TABLE;Name: nvarchar;0
+column;rowguid;Sales;SalesTaxRate;table;uniqueidentifier;0
+
+column;SalesTaxRateID;Sales;SalesTaxRate;TABLE;int;0
+column;StateProvinceID;Sales;SalesTaxRate;TABLE;int;0
+column;TaxRate;Sales;SalesTaxRate;TABLE;smallmoney;0
+column;TaxType;Sales;SalesTaxRate;table;tinyint;0
+column;BusinessEntityID;Sales;PersonCreditCard;TABLE;int;0
+column;CreditCardID;Sales;PersonCreditCard;TABLE;int;0
+column;ModifiedDate;Sales;PersonCreditCard;TABLE;datetime;0
+column;BusinessEntityID;Person;vAdditionalContactInfo;TABLE;int;0
+column;City;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;CountryRegion;Person;vAdditionalContactInfo;table;nvarchar;1
+column;EMailAddress;Person;vAdditionalContactInfo;table;nvarchar;1
+column;EMailSpecialInstructions;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;EMailTelephoneNumber;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;FirstName;Person;vAdditionalContactInfo;table;Name: nvarchar;0
+column;HomeAddressSpecialInstructions;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;LastName;Person;vAdditionalContactInfo;table;Name: nvarchar;0
+column;MiddleName;Person;vAdditionalContactInfo;table;Name: nvarchar;1
+column;ModifiedDate;Person;vAdditionalContactInfo;table;datetime;0
+column;PostalCode;Person;vAdditionalContactInfo;table;nvarchar;1
+column;rowguid;Person;vAdditionalContactInfo;TABLE;uniqueidentifier;0
+column;StateProvince;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;Street;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;TelephoneNumber;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;TelephoneSpecialInstructions;Person;vAdditionalContactInfo;TABLE;nvarchar;1
+column;BusinessEntityID;Person;PersonPhone;TABLE;int;0
+column;ModifiedDate;Person;PersonPhone;TABLE;datetime;0
+column;PhoneNumber;Person;PersonPhone;TABLE;Phone: nvarchar;0
+column;PhoneNumberTypeID;Person;PersonPhone;TABLE;int;0
+
+column;AdditionalContactInfo;HumanResources;vEmployee;TABLE;xml;1
+column;AddressLine1;HumanResources;vEmployee;table;nvarchar;0
+column;AddressLine2;HumanResources;vEmployee;table;nvarchar;1
+column;BusinessEntityID;HumanResources;vEmployee;TABLE;int;0
+column;City;HumanResources;vEmployee;TABLE;nvarchar;0
+column;CountryRegionName;HumanResources;vEmployee;table;Name: nvarchar;0
+column;EmailAddress;HumanResources;vEmployee;table;nvarchar;1
+column;EmailPromotion;HumanResources;vEmployee;TABLE;int;0
+column;FirstName;HumanResources;vEmployee;TABLE;Name: nvarchar;0
+column;JobTitle;HumanResources;vEmployee;TABLE;nvarchar;0
+column;LastName;HumanResources;vEmployee;TABLE;Name: nvarchar;0
+column;MiddleName;HumanResources;vEmployee;TABLE;Name: nvarchar;1
+column;PhoneNumber;HumanResources;vEmployee;TABLE;Phone: nvarchar;1
+column;PhoneNumberType;HumanResources;vEmployee;TABLE;Name: nvarchar;1
+column;PostalCode;HumanResources;vEmployee;TABLE;nvarchar;0
+column;StateProvinceName;HumanResources;vEmployee;TABLE;Name: nvarchar;0
+column;Suffix;HumanResources;vEmployee;TABLE;nvarchar;1
+column;Title;HumanResources;vEmployee;TABLE;nvarchar;1
+column;CostLastYear;Sales;SalesTerritory;TABLE;money;0
+column;CostYTD;Sales;SalesTerritory;TABLE;money;0
+column;CountryRegionCode;Sales;SalesTerritory;TABLE;nvarchar;0
+column;Group;Sales;SalesTerritory;TABLE;nvarchar;0
+column;ModifiedDate;Sales;SalesTerritory;TABLE;datetime;0
+column;Name;Sales;SalesTerritory;TABLE;Name: nvarchar;0
+column;rowguid;Sales;SalesTerritory;TABLE;uniqueidentifier;0
+column;SalesLastYear;Sales;SalesTerritory;TABLE;money;0
+column;SalesYTD;Sales;SalesTerritory;TABLE;money;0
+column;TerritoryID;Sales;SalesTerritory;TABLE;int;0
+column;BusinessEntityID;HumanResources;vEmployeeDepartment;TABLE;int;0
+column;Department;HumanResources;vEmployeeDepartment;TABLE;Name: nvarchar;0
+column;FirstName;HumanResources;vEmployeeDepartment;TABLE;Name: nvarchar;0
+column;GroupName;HumanResources;vEmployeeDepartment;TABLE;Name: nvarchar;0
+column;JobTitle;HumanResources;vEmployeeDepartment;TABLE;nvarchar;0
+column;LastName;HumanResources;vEmployeeDepartment;TABLE;Name: nvarchar;0
+column;MiddleName;HumanResources;vEmployeeDepartment;TABLE;Name: nvarchar;1
+column;StartDate;HumanResources;vEmployeeDepartment;TABLE;date;0
+column;Suffix;HumanResources;vEmployeeDepartment;TABLE;nvarchar;1
+column;Title;HumanResources;vEmployeeDepartment;TABLE;nvarchar;1
+column;ModifiedDate;Person;PhoneNumberType;TABLE;datetime;0
+column;Name;Person;PhoneNumberType;TABLE;Name: nvarchar;0
+column;PhoneNumberTypeID;Person;PhoneNumberType;TABLE;int;0
+column;BusinessEntityID;HumanResources;vEmployeeDepartmentHistory;TABLE;int;0
+column;Department;HumanResources;vEmployeeDepartmentHistory;TABLE;Name: nvarchar;0
+column;EndDate;HumanResources;vEmployeeDepartmentHistory;TABLE;date;1
+column;FirstName;HumanResources;vEmployeeDepartmentHistory;TABLE;Name: nvarchar;0
+column;GroupName;HumanResources;vEmployeeDepartmentHistory;TABLE;Name: nvarchar;0
+column;LastName;HumanResources;vEmployeeDepartmentHistory;TABLE;Name: nvarchar;0
+column;MiddleName;HumanResources;vEmployeeDepartmentHistory;TABLE;Name: nvarchar;1
+column;Shift;HumanResources;vEmployeeDepartmentHistory;TABLE;Name: nvarchar;0
+column;StartDate;HumanResources;vEmployeeDepartmentHistory;TABLE;date;0
+column;Suffix;HumanResources;vEmployeeDepartmentHistory;TABLE;nvarchar;1
+column;Title;HumanResources;vEmployeeDepartmentHistory;TABLE;nvarchar;1
+column;AddressLine1;Sales;vIndividualCustomer;TABLE;nvarchar;0
+column;AddressLine2;Sales;vIndividualCustomer;TABLE;nvarchar;1
+column;AddressType;Sales;vIndividualCustomer;TABLE;Name: nvarchar;0
+column;BusinessEntityID;Sales;vIndividualCustomer;TABLE;int;0
+column;City;Sales;vIndividualCustomer;TABLE;nvarchar;0
+column;CountryRegionName;Sales;vIndividualCustomer;TABLE;Name: nvarchar;0
+column;Demographics;Sales;vIndividualCustomer;TABLE;xml;1
+column;EmailAddress;Sales;vIndividualCustomer;TABLE;nvarchar;1
+column;EmailPromotion;Sales;vIndividualCustomer;TABLE;int;0
+column;FirstName;Sales;vIndividualCustomer;TABLE;Name: nvarchar;0
+column;LastName;Sales;vIndividualCustomer;TABLE;Name: nvarchar;0
+column;MiddleName;Sales;vIndividualCustomer;TABLE;Name: nvarchar;1
+column;PhoneNumber;Sales;vIndividualCustomer;TABLE;Phone: nvarchar;1
+column;PhoneNumberType;Sales;vIndividualCustomer;TABLE;Name: nvarchar;1
+column;PostalCode;Sales;vIndividualCustomer;TABLE;nvarchar;0
+
+column;StateProvinceName;Sales;vIndividualCustomer;TABLE;Name: nvarchar;0
+column;Suffix;Sales;vIndividualCustomer;TABLE;nvarchar;1
+column;Title;Sales;vIndividualCustomer;TABLE;nvarchar;1
+column;Class;Production;Product;TABLE;nchar;1
+column;Color;Production;Product;TABLE;nvarchar;1
+column;DaysToManufacture;Production;Product;TABLE;int;0
+column;DiscontinuedDate;Production;Product;TABLE;datetime;1
+column;FinishedGoodsFlag;Production;Product;TABLE;Flag: bit;0
+column;ListPrice;Production;Product;TABLE;money;0
+column;MakeFlag;Production;Product;TABLE;Flag: bit;0
+column;ModifiedDate;Production;Product;TABLE;datetime;0
+column;Name;Production;Product;TABLE;Name: nvarchar;0
+column;ProductID;Production;Product;TABLE;int;0
+column;ProductLine;Production;Product;TABLE;nchar;1
+column;ProductModelID;Production;Product;TABLE;int;1
+column;ProductNumber;Production;Product;TABLE;nvarchar;0
+column;ProductSubcategoryID;Production;Product;TABLE;int;1
+column;ReorderPoint;Production;Product;TABLE;smallint;0
+column;rowguid;Production;Product;TABLE;uniqueidentifier;0
+column;SafetyStockLevel;Production;Product;TABLE;smallint;0
+column;SellEndDate;Production;Product;TABLE;datetime;1
+column;SellStartDate;Production;Product;TABLE;datetime;0
+column;Size;Production;Product;TABLE;nvarchar;1
+column;SizeUnitMeasureCode;Production;Product;TABLE;nchar;1
+column;StandardCost;Production;Product;TABLE;money;0
+column;Style;Production;Product;TABLE;nchar;1
+column;Weight;Production;Product;TABLE;decimal;1
+column;WeightUnitMeasureCode;Production;Product;TABLE;nchar;1
+column;BirthDate;Sales;vPersonDemographics;TABLE;datetime;1
+column;BusinessEntityID;Sales;vPersonDemographics;TABLE;int;0
+column;DateFirstPurchase;Sales;vPersonDemographics;TABLE;datetime;1
+column;Education;Sales;vPersonDemographics;TABLE;nvarchar;1
+column;Gender;Sales;vPersonDemographics;TABLE;nvarchar;1
+column;HomeOwnerFlag;Sales;vPersonDemographics;TABLE;bit;1
+column;MaritalStatus;Sales;vPersonDemographics;TABLE;nvarchar;1
+column;NumberCarsOwned;Sales;vPersonDemographics;TABLE;int;1
+column;NumberChildrenAtHome;Sales;vPersonDemographics;TABLE;int;1
+column;Occupation;Sales;vPersonDemographics;TABLE;nvarchar;1
+column;TotalChildren;Sales;vPersonDemographics;TABLE;int;1
+column;TotalPurchaseYTD;Sales;vPersonDemographics;TABLE;money;1
+column;YearlyIncome;Sales;vPersonDemographics;TABLE;nvarchar;1
+column;Addr.Loc.City;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Addr.Loc.CountryRegion;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Addr.Loc.State;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Addr.PostalCode;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Addr.Type;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;BusinessEntityID;HumanResources;vJobCandidate;TABLE;int;1
+column;EMail;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;JobCandidateID;HumanResources;vJobCandidate;TABLE;int;0
+column;ModifiedDate;HumanResources;vJobCandidate;TABLE;datetime;0
+column;Name.First;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Name.Last;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Name.Middle;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Name.Prefix;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Name.Suffix;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Skills;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;WebSite;HumanResources;vJobCandidate;TABLE;nvarchar;1
+column;Emp.EndDate;HumanResources;vJobCandidateEmployment;TABLE;datetime;1
+column;Emp.FunctionCategory;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.IndustryCategory;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.JobTitle;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.Loc.City;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.Loc.CountryRegion;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.Loc.State;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.OrgName;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.Responsibility;HumanResources;vJobCandidateEmployment;TABLE;nvarchar;1
+column;Emp.StartDate;HumanResources;vJobCandidateEmployment;TABLE;datetime;1
+column;JobCandidateID;HumanResources;vJobCandidateEmployment;TABLE;int;0
+column;Edu.Degree;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.EndDate;HumanResources;vJobCandidateEducation;TABLE;datetime;1
+column;Edu.GPA;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.GPAScale;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.Level;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.Loc.City;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.Loc.CountryRegion;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.Loc.State;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.Major;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.Minor;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.School;HumanResources;vJobCandidateEducation;TABLE;nvarchar;1
+column;Edu.StartDate;HumanResources;vJobCandidateEducation;TABLE;datetime;1
+column;JobCandidateID;HumanResources;vJobCandidateEducation;TABLE;int;0
+column;CultureID;Production;vProductAndDescription;TABLE;nchar;0
+column;Description;Production;vProductAndDescription;TABLE;nvarchar;0
+column;Name;Production;vProductAndDescription;TABLE;Name: nvarchar;0
+column;ProductID;Production;vProductAndDescription;TABLE;int;0
+column;ProductModel;Production;vProductAndDescription;TABLE;Name: nvarchar;0
+column;BikeFrame;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Color;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Copyright;Production;vProductModelCatalogDescription;TABLE;nvarchar
+column;Crankset;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;MaintenanceDescription;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Manufacturer;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Material;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;ModifiedDate;Production;vProductModelCatalogDescription;TABLE;datetime;0
+column;Name;Production;vProductModelCatalogDescription;TABLE;Name: nvarchar;0
+column;NoOfYears;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Pedal;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;PictureAngle;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;PictureSize;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;ProductLine;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;ProductModelID;Production;vProductModelCatalogDescription;TABLE;int;0
+column;ProductPhotoID;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;ProductURL;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;RiderExperience;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;rowguid;Production;vProductModelCatalogDescription;TABLE;uniqueidentifier;0
+column;Saddle;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Style;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Summary;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;WarrantyDescription;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;WarrantyPeriod;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Wheel;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
+column;Instructions;Production;vProductModelInstructions;TABLE;nvarchar;1
+column;LaborHours;Production;vProductModelInstructions;TABLE;decimal;1
+column;LocationID;Production;vProductModelInstructions;TABLE;int;1
+column;LotSize;Production;vProductModelInstructions;TABLE;int;1
+column;MachineHours;Production;vProductModelInstructions;TABLE;decimal;1
+column;ModifiedDate;Production;vProductModelInstructions;TABLE;datetime;0
+column;Name;Production;vProductModelInstructions;TABLE;Name: nvarchar;0
+column;ProductModelID;Production;vProductModelInstructions;TABLE;int;0
+column;rowguid;Production;vProductModelInstructions;TABLE;uniqueidentifier;0
+column;SetupHours;Production;vProductModelInstructions;TABLE;decimal;1
+column;Step;Production;vProductModelInstructions;TABLE;nvarchar;1
+column;AddressLine1;Sales;vSalesPerson;TABLE;nvarchar;0
+column;AddressLine2;Sales;vSalesPerson;TABLE;nvarchar;1
+column;BusinessEntityID;Sales;vSalesPerson;TABLE;int;0
+column;City;Sales;vSalesPerson;TABLE;nvarchar;0
+column;CountryRegionName;Sales;vSalesPerson;TABLE;Name: nvarchar;0
+column;EmailAddress;Sales;vSalesPerson;TABLE;nvarchar;1
+column;EmailPromotion;Sales;vSalesPerson;TABLE;int;0
+column;FirstName;Sales;vSalesPerson;TABLE;Name: nvarchar;0
+column;JobTitle;Sales;vSalesPerson;TABLE;nvarchar;0
+column;LastName;Sales;vSalesPerson;TABLE;Name: nvarchar;0
+column;MiddleName;Sales;vSalesPerson;TABLE;Name: nvarchar;1
+column;PhoneNumber;Sales;vSalesPerson;TABLE;Phone: nvarchar;1
+column;PhoneNumberType;Sales;vSalesPerson;TABLE;Name: nvarchar;1
+column;PostalCode;Sales;vSalesPerson;TABLE;nvarchar;0
+column;SalesLastYear;Sales;vSalesPerson;TABLE;money;0
+
+column;SalesQuota;Sales;vSalesPerson;TABLE;money;1
+column;SalesYTD;Sales;vSalesPerson;TABLE;money;0
+column;StateProvinceName;Sales;vSalesPerson;TABLE;Name: nvarchar;0
+column;Suffix;Sales;vSalesPerson;TABLE;nvarchar;1
+column;TerritoryGroup;Sales;vSalesPerson;TABLE;nvarchar;1
+column;TerritoryName;Sales;vSalesPerson;TABLE;Name: nvarchar;1
+column;Title;Sales;vSalesPerson;TABLE;nvarchar;1
+column;BusinessEntityID;Sales;SalesTerritoryHistory;TABLE;int;0
+column;EndDate;Sales;SalesTerritoryHistory;TABLE;datetime;1
+column;ModifiedDate;Sales;SalesTerritoryHistory;TABLE;datetime;0
+column;rowguid;Sales;SalesTerritoryHistory;TABLE;uniqueidentifier;0
+column;StartDate;Sales;SalesTerritoryHistory;TABLE;datetime;0
+column;TerritoryID;Sales;SalesTerritoryHistory;TABLE;int;0
+column;2002;Sales;vSalesPersonSalesByFiscalYears;TABLE;money;1
+column;2003;Sales;vSalesPersonSalesByFiscalYears;TABLE;money;1
+column;2004;Sales;vSalesPersonSalesByFiscalYears;TABLE;money;1
+column;FullName;Sales;vSalesPersonSalesByFiscalYears;TABLE;nvarchar;1
+column;JobTitle;Sales;vSalesPersonSalesByFiscalYears;TABLE;nvarchar;0
+column;SalesPersonID;Sales;vSalesPersonSalesByFiscalYears;TABLE;int;1
+column;SalesTerritory;Sales;vSalesPersonSalesByFiscalYears;TABLE;Name: nvarchar;0
+column;CountryRegionCode;Person;vStateProvinceCountryRegion;TABLE;nvarchar;0
+column;CountryRegionName;Person;vStateProvinceCountryRegion;TABLE;Name: nvarchar;0
+column;IsOnlyStateProvinceFlag;Person;vStateProvinceCountryRegion;TABLE;Flag: bit;0
+column;StateProvinceCode;Person;vStateProvinceCountryRegion;TABLE;nchar;0
+column;StateProvinceID;Person;vStateProvinceCountryRegion;TABLE;int;0
+column;StateProvinceName;Person;vStateProvinceCountryRegion;TABLE;Name: nvarchar;0
+column;TerritoryID;Person;vStateProvinceCountryRegion;TABLE;int;0
+column;AnnualRevenue;Sales;vStoreWithDemographics;TABLE;money;1
+column;AnnualSales;Sales;vStoreWithDemographics;TABLE;money;1
+column;BankName;Sales;vStoreWithDemographics;TABLE;nvarchar;1
+column;Brands;Sales;vStoreWithDemographics;TABLE;nvarchar;1
+column;BusinessEntityID;Sales;vStoreWithDemographics;TABLE;int;0
+column;BusinessType;Sales;vStoreWithDemographics;TABLE;nvarchar;1
+column;Internet;Sales;vStoreWithDemographics;TABLE;nvarchar;1
+column;Name;Sales;vStoreWithDemographics;TABLE;Name: nvarchar;0
+column;NumberEmployees;Sales;vStoreWithDemographics;TABLE;int;1
+column;Specialty;Sales;vStoreWithDemographics;TABLE;nvarchar;1
+column;SquareFeet;Sales;vStoreWithDemographics;TABLE;int;1
+column;YearOpened;Sales;vStoreWithDemographics;TABLE;int;1
+column;BusinessEntityID;Sales;vStoreWithContacts;TABLE;int;0
+column;ContactType;Sales;vStoreWithContacts;TABLE;Name: nvarchar;0
+column;EmailAddress;Sales;vStoreWithContacts;TABLE;nvarchar;1
+column;EmailPromotion;Sales;vStoreWithContacts;TABLE;int;0
+column;FirstName;Sales;vStoreWithContacts;TABLE;Name: nvarchar;0
+column;LastName;Sales;vStoreWithContacts;TABLE;Name: nvarchar;0
+column;MiddleName;Sales;vStoreWithContacts;TABLE;Name: nvarchar;1
+column;Name;Sales;vStoreWithContacts;TABLE;Name: nvarchar;0
+column;PhoneNumber;Sales;vStoreWithContacts;TABLE;Phone: nvarchar;1
+column;PhoneNumberType;Sales;vStoreWithContacts;TABLE;Name: nvarchar;1
+column;Suffix;Sales;vStoreWithContacts;TABLE;nvarchar;1
+column;Title;Sales;vStoreWithContacts;TABLE;nvarchar;1
+column;ModifiedDate;Production;ScrapReason;TABLE;datetime;0
+column;Name;Production;ScrapReason;TABLE;Name: nvarchar;0
+column;ScrapReasonID;Production;ScrapReason;TABLE;smallint;0
+column;AddressLine1;Sales;vStoreWithAddresses;TABLE;nvarchar;0
+column;AddressLine2;Sales;vStoreWithAddresses;TABLE;nvarchar;1
+column;AddressType;Sales;vStoreWithAddresses;TABLE;Name: nvarchar;0
+column;BusinessEntityID;Sales;vStoreWithAddresses;TABLE;int;0
+column;City;Sales;vStoreWithAddresses;TABLE;nvarchar;0
+column;CountryRegionName;Sales;vStoreWithAddresses;TABLE;Name: nvarchar;0
+column;Name;Sales;vStoreWithAddresses;TABLE;Name: nvarchar;0
+column;PostalCode;Sales;vStoreWithAddresses;TABLE;nvarchar;0
+column;StateProvinceName;Sales;vStoreWithAddresses;TABLE;Name: nvarchar;0
+column;BusinessEntityID;Purchasing;vVendorWithContacts;TABLE;int;0
+column;ContactType;Purchasing;vVendorWithContacts;TABLE;Name: nvarchar;0
+column;EmailAddress;Purchasing;vVendorWithContacts;TABLE;nvarchar;1
+column;EmailPromotion;Purchasing;vVendorWithContacts;TABLE;int;0
+column;FirstName;Purchasing;vVendorWithContacts;TABLE;Name: nvarchar;0
+column;LastName;Purchasing;vVendorWithContacts;TABLE;Name: nvarchar;0
+column;MiddleName;Purchasing;vVendorWithContacts;TABLE;Name: nvarchar;1
+column;Name;Purchasing;vVendorWithContacts;TABLE;Name: nvarchar;0
+column;PhoneNumber;Purchasing;vVendorWithContacts;TABLE;Phone: nvarchar;1
+column;PhoneNumberType;Purchasing;vVendorWithContacts;TABLE;Name: nvarchar;1
+column;Suffix;Purchasing;vVendorWithContacts;TABLE;nvarchar;1
+column;Title;Purchasing;vVendorWithContacts;TABLE;nvarchar;1
+column;EndTime;HumanResources;Shift;TABLE;time;0
+column;ModifiedDate;HumanResources;Shift;TABLE;datetime;0
+column;Name;HumanResources;Shift;TABLE;Name: nvarchar;0
+column;ShiftID;HumanResources;Shift;TABLE;tinyint;0
+column;StartTime;HumanResources;Shift;TABLE;time;0
+column;AddressLine1;Purchasing;vVendorWithAddresses;TABLE;nvarchar;0
+column;AddressLine2;Purchasing;vVendorWithAddresses;TABLE;nvarchar;1
+column;AddressType;Purchasing;vVendorWithAddresses;TABLE;Name: nvarchar;0
+column;BusinessEntityID;Purchasing;vVendorWithAddresses;TABLE;int;0
+column;City;Purchasing;vVendorWithAddresses;TABLE;nvarchar;0
+column;CountryRegionName;Purchasing;vVendorWithAddresses;TABLE;Name: nvarchar;0
+column;Name;Purchasing;vVendorWithAddresses;TABLE;Name: nvarchar;0
+column;PostalCode;Purchasing;vVendorWithAddresses;TABLE;nvarchar;0
+column;StateProvinceName;Purchasing;vVendorWithAddresses;TABLE;Name: nvarchar;0
+column;ModifiedDate;Production;ProductCategory;TABLE;datetime;0
+column;Name;Production;ProductCategory;TABLE;Name: nvarchar;0
+column;ProductCategoryID;Production;ProductCategory;TABLE;int;0
+column;rowguid;Production;ProductCategory;TABLE;uniqueidentifier;0
+column;ModifiedDate;Purchasing;ShipMethod;TABLE;datetime;0
+column;Name;Purchasing;ShipMethod;TABLE;Name: nvarchar;0
+column;rowguid;Purchasing;ShipMethod;TABLE;uniqueidentifier;0
+column;ShipBase;Purchasing;ShipMethod;TABLE;money;0
+column;ShipMethodID;Purchasing;ShipMethod;TABLE;int;0
+column;ShipRate;Purchasing;ShipMethod;TABLE;money;0
+column;EndDate;Production;ProductCostHistory;TABLE;datetime;1
+column;ModifiedDate;Production;ProductCostHistory;TABLE;datetime;0
+column;ProductID;Production;ProductCostHistory;TABLE;int;0
+column;StandardCost;Production;ProductCostHistory;TABLE;money;0
+column;StartDate;Production;ProductCostHistory;TABLE;datetime;0
+column;ModifiedDate;Sales;SalesReason;TABLE;datetime;0
+column;Name;Sales;SalesReason;TABLE;Name: nvarchar;0
+column;ReasonType;Sales;SalesReason;TABLE;Name: nvarchar;0
+column;SalesReasonID;Sales;SalesReason;TABLE;int;0
+column;BusinessEntityID;Person;Password;TABLE;int;0
+column;ModifiedDate;Person;Password;TABLE;datetime;0
+column;PasswordHash;Person;Password;TABLE;varchar;0
+column;PasswordSalt;Person;Password;TABLE;varchar;0
+column;rowguid;Person;Password;TABLE;uniqueidentifier;0
+column;ModifiedDate;Sales;SalesOrderHeaderSalesReason;TABLE;datetime;0
+column;SalesOrderID;Sales;SalesOrderHeaderSalesReason;TABLE;int;0
+column;SalesReasonID;Sales;SalesOrderHeaderSalesReason;TABLE;int;0
+column;BusinessEntityID;HumanResources;EmployeePayHistory;TABLE;int;0
+column;ModifiedDate;HumanResources;EmployeePayHistory;TABLE;datetime;0
+column;PayFrequency;HumanResources;EmployeePayHistory;TABLE;tinyint;0
+column;Rate;HumanResources;EmployeePayHistory;TABLE;money;0
+column;RateChangeDate;HumanResources;EmployeePayHistory;TABLE;datetime;0
+column;Description;Production;ProductDescription;TABLE;nvarchar;0
+column;ModifiedDate;Production;ProductDescription;TABLE;datetime;0
+column;ProductDescriptionID;Production;ProductDescription;TABLE;int;0
+column;rowguid;Production;ProductDescription;TABLE;uniqueidentifier;0
+column;DateCreated;Sales;ShoppingCartItem;TABLE;datetime;0
+column;ModifiedDate;Sales;ShoppingCartItem;TABLE;datetime;0
+column;ProductID;Sales;ShoppingCartItem;TABLE;int;0
+column;Quantity;Sales;ShoppingCartItem;TABLE;int;0
+column;ShoppingCartID;Sales;ShoppingCartItem;TABLE;nvarchar;0
+column;ShoppingCartItemID;Sales;ShoppingCartItem;TABLE;int;0
+column;DocumentNode;Production;ProductDocument;TABLE;hierarchyid;0
+column;ModifiedDate;Production;ProductDocument;TABLE;datetime;0
+column;ProductID;Production;ProductDocument;TABLE;int;0
+column;DatabaseLogID;dbo;DatabaseLog;TABLE;int;0
+column;DatabaseUser;dbo;DatabaseLog;TABLE;nvarchar;0
+column;Event;dbo;DatabaseLog;TABLE;nvarchar;0
+column;Object;dbo;DatabaseLog;TABLE;nvarchar;1
+column;PostTime;dbo;DatabaseLog;TABLE;datetime;0
+column;Schema;dbo;DatabaseLog;TABLE;nvarchar;1
+column;TSQL;dbo;DatabaseLog;TABLE;nvarchar;0
+column;XmlEvent;dbo;DatabaseLog;TABLE;xml;0
+column;Bin;Production;ProductInventory;TABLE;tinyint;0
+column;LocationID;Production;ProductInventory;TABLE;smallint;0
+column;ModifiedDate;Production;ProductInventory;TABLE;datetime;0
+column;ProductID;Production;ProductInventory;TABLE;int;0
+column;Quantity;Production;ProductInventory;TABLE;smallint;0
+column;rowguid;Production;ProductInventory;TABLE;uniqueidentifier;0
+column;Shelf;Production;ProductInventory;TABLE;nvarchar;0
+column;Category;Sales;SpecialOffer;TABLE;nvarchar;0
+column;Description;Sales;SpecialOffer;TABLE;nvarchar;0
+column;DiscountPct;Sales;SpecialOffer;TABLE;smallmoney;0
+column;EndDate;Sales;SpecialOffer;TABLE;datetime;0
+column;MaxQty;Sales;SpecialOffer;TABLE;int;1
+column;MinQty;Sales;SpecialOffer;TABLE;int;0
+column;ModifiedDate;Sales;SpecialOffer;TABLE;datetime;0
+column;rowguid;Sales;SpecialOffer;TABLE;uniqueidentifier;0
+column;SpecialOfferID;Sales;SpecialOffer;TABLE;int;0
+column;StartDate;Sales;SpecialOffer;TABLE;datetime;0
+column;Type;Sales;SpecialOffer;TABLE;nvarchar;0
+column;ErrorLine;dbo;ErrorLog;TABLE;int;1
+column;ErrorLogID;dbo;ErrorLog;TABLE;int;0
+column;ErrorMessage;dbo;ErrorLog;TABLE;nvarchar;0
+column;ErrorNumber;dbo;ErrorLog;TABLE;int;0
+column;ErrorProcedure;dbo;ErrorLog;TABLE;nvarchar;1
+column;ErrorSeverity;dbo;ErrorLog;TABLE;int;1
+column;ErrorState;dbo;ErrorLog;TABLE;int;1
+column;ErrorTime;dbo;ErrorLog;TABLE;datetime;0
+column;UserName;dbo;ErrorLog;TABLE;nvarchar;0
+column;EndDate;Production;ProductListPriceHistory;TABLE;datetime;1
+column;ListPrice;Production;ProductListPriceHistory;TABLE;money;0
+column;ModifiedDate;Production;ProductListPriceHistory;TABLE;datetime;0
+column;ProductID;Production;ProductListPriceHistory;TABLE;int;0
+column;StartDate;Production;ProductListPriceHistory;TABLE;datetime;0
+column;AddressID;Person;Address;TABLE;int;0
+column;AddressLine1;Person;Address;TABLE;nvarchar;0
+column;AddressLine2;Person;Address;TABLE;nvarchar;1
+column;City;Person;Address;TABLE;nvarchar;0
+column;ModifiedDate;Person;Address;TABLE;datetime;0
+column;PostalCode;Person;Address;TABLE;nvarchar;0
+column;rowguid;Person;Address;TABLE;uniqueidentifier;0
+column;SpatialLocation;Person;Address;TABLE;geography;1
+column;StateProvinceID;Person;Address;TABLE;int;0
+column;ModifiedDate;Sales;SpecialOfferProduct;TABLE;datetime;0
+column;ProductID;Sales;SpecialOfferProduct;TABLE;int;0
+column;rowguid;Sales;SpecialOfferProduct;TABLE;uniqueidentifier;0
+column;SpecialOfferID;Sales;SpecialOfferProduct;TABLE;int;0
+column;CatalogDescription;Production;ProductModel;TABLE;xml;1
+column;Instructions;Production;ProductModel;TABLE;xml;1
+column;ModifiedDate;Production;ProductModel;TABLE;datetime;0
+column;Name;Production;ProductModel;TABLE;Name: nvarchar;0
+column;ProductModelID;Production;ProductModel;TABLE;int;0
+column;rowguid;Production;ProductModel;TABLE;uniqueidentifier;0
+column;AddressTypeID;Person;AddressType;TABLE;int;0
+column;ModifiedDate;Person;AddressType;TABLE;datetime;0
+column;Name;Person;AddressType;TABLE;Name: nvarchar;0
+column;rowguid;Person;AddressType;TABLE;uniqueidentifier;0
+column;CountryRegionCode;Person;StateProvince;table;nvarchar;0
+column;IsOnlyStateProvinceFlag;Person;StateProvince;table;Flag: bit;0
+column;ModifiedDate;Person;StateProvince;table;datetime;0
+column;Name;Person;StateProvince;table;Name: nvarchar;0
+column;rowguid;Person;StateProvince;table;uniqueidentifier;0
+column;StateProvinceCode;Person;StateProvince;table;nchar;0
+column;StateProvinceID;Person;StateProvince;TABLE;int;0
+column;TerritoryID;Person;StateProvince;TABLE;int;0
+column;IllustrationID;Production;ProductModelIllustration;TABLE;int;0
+column;ModifiedDate;Production;ProductModelIllustration;TABLE;datetime;0
+column;ProductModelID;Production;ProductModelIllustration;TABLE;int;0
+column;Database Version;dbo;AWBuildVersion;TABLE;nvarchar;0
+column;ModifiedDate;dbo;AWBuildVersion;TABLE;datetime;0
+column;SystemInformationID;dbo;AWBuildVersion;TABLE;tinyint;0
+column;VersionDate;dbo;AWBuildVersion;TABLE;datetime;0
+column;CultureID;Production;ProductModelProductDescriptionCulture;TABLE;nchar;0
+column;ModifiedDate;Production;ProductModelProductDescriptionCulture;TABLE;datetime;0
+column;ProductDescriptionID;Production;ProductModelProductDescriptionCulture;TABLE;int;0
+column;ProductModelID;Production;ProductModelProductDescriptionCulture;TABLE;int;0
+column;BillOfMaterialsID;Production;BillOfMaterials;TABLE;int;0
+column;BOMLevel;Production;BillOfMaterials;TABLE;smallint;0
+column;ComponentID;Production;BillOfMaterials;TABLE;int;0
+column;EndDate;Production;BillOfMaterials;TABLE;datetime;1
+column;ModifiedDate;Production;BillOfMaterials;TABLE;datetime;0
+column;PerAssemblyQty;Production;BillOfMaterials;TABLE;decimal;0
+column;ProductAssemblyID;Production;BillOfMaterials;TABLE;int;1
+column;StartDate;Production;BillOfMaterials;TABLE;datetime;0
+column;UnitMeasureCode;Production;BillOfMaterials;TABLE;nchar;0
+column;BusinessEntityID;Sales;Store;TABLE;int;0
+column;Demographics;Sales;Store;TABLE;xml;1
+column;ModifiedDate;Sales;Store;TABLE;datetime;0
+column;Name;Sales;Store;TABLE;Name: nvarchar;0
+column;rowguid;Sales;Store;TABLE;uniqueidentifier;0
+column;SalesPersonID;Sales;Store;TABLE;int;1
+column;LargePhoto;Production;ProductPhoto;TABLE;varbinary;1
+column;LargePhotoFileName;Production;ProductPhoto;TABLE;nvarchar;1
+column;ModifiedDate;Production;ProductPhoto;TABLE;datetime;0
+column;ProductPhotoID;Production;ProductPhoto;TABLE;int;0
+column;ThumbNailPhoto;Production;ProductPhoto;TABLE;varbinary;1
+column;ThumbnailPhotoFileName;Production;ProductPhoto;TABLE;nvarchar;1
+column;ModifiedDate;Production;ProductProductPhoto;TABLE;datetime;0
+column;Primary;Production;ProductProductPhoto;TABLE;Flag: bit;0
+column;ProductID;Production;ProductProductPhoto;TABLE;int;0
+column;ProductPhotoID;Production;ProductProductPhoto;TABLE;int;0
+column;ActualCost;Production;TransactionHistory;TABLE;money;0
+column;ModifiedDate;Production;TransactionHistory;TABLE;datetime;0
+column;ProductID;Production;TransactionHistory;TABLE;int;0
+column;Quantity;Production;TransactionHistory;TABLE;int;0
+column;ReferenceOrderID;Production;TransactionHistory;TABLE;int;0
+column;ReferenceOrderLineID;Production;TransactionHistory;TABLE;int;0
+column;TransactionDate;Production;TransactionHistory;TABLE;datetime;0
+column;TransactionID;Production;TransactionHistory;TABLE;int;0
+column;TransactionType;Production;TransactionHistory;TABLE;nchar;0
+column;Comments;Production;ProductReview;TABLE;nvarchar;1
+column;EmailAddress;Production;ProductReview;TABLE;nvarchar;0
+column;ModifiedDate;Production;ProductReview;TABLE;datetime;0
+column;ProductID;Production;ProductReview;TABLE;int;0
+column;ProductReviewID;Production;ProductReview;TABLE;int;0
+column;Rating;Production;ProductReview;TABLE;int;0
+column;ReviewDate;Production;ProductReview;TABLE;datetime;0
+column;ReviewerName;Production;ProductReview;TABLE;Name: nvarchar;0
+column;BusinessEntityID;Person;BusinessEntity;TABLE;int;0
+column;ModifiedDate;Person;BusinessEntity;TABLE;datetime;0
+column;rowguid;Person;BusinessEntity;TABLE;uniqueidentifier;0
+column;ActualCost;Production;TransactionHistoryArchive;TABLE;money;0
+column;ModifiedDate;Production;TransactionHistoryArchive;TABLE;datetime;0
+column;ProductID;Production;TransactionHistoryArchive;TABLE;int;0
+column;Quantity;Production;TransactionHistoryArchive;TABLE;int;0
+column;ReferenceOrderID;Production;TransactionHistoryArchive;TABLE;int;0
+column;ReferenceOrderLineID;Production;TransactionHistoryArchive;TABLE;int;0
+column;TransactionDate;Production;TransactionHistoryArchive;TABLE;datetime;0
+column;TransactionID;Production;TransactionHistoryArchive;TABLE;int;0
+column;TransactionType;Production;TransactionHistoryArchive;TABLE;nchar;0
+column;ModifiedDate;Production;ProductSubcategory;TABLE;datetime;0
+column;Name;Production;ProductSubcategory;TABLE;Name: nvarchar;0
+column;ProductCategoryID;Production;ProductSubcategory;TABLE;int;0
+column;ProductSubcategoryID;Production;ProductSubcategory;TABLE;int;0
+column;rowguid;Production;ProductSubcategory;TABLE;uniqueidentifier;0
+column;AddressID;Person;BusinessEntityAddress;TABLE;int;0
+column;AddressTypeID;Person;BusinessEntityAddress;TABLE;int;0
+column;BusinessEntityID;Person;BusinessEntityAddress;TABLE;int;0
+column;ModifiedDate;Person;BusinessEntityAddress;TABLE;datetime;0
+column;rowguid;Person;BusinessEntityAddress;TABLE;uniqueidentifier;0
+column;AverageLeadTime;Purchasing;ProductVendor;TABLE;int;0
+column;BusinessEntityID;Purchasing;ProductVendor;TABLE;int;0
+column;LastReceiptCost;Purchasing;ProductVendor;TABLE;money;1
+column;LastReceiptDate;Purchasing;ProductVendor;TABLE;datetime;1
+column;MaxOrderQty;Purchasing;ProductVendor;TABLE;int;0
+column;MinOrderQty;Purchasing;ProductVendor;TABLE;int;0
+column;ModifiedDate;Purchasing;ProductVendor;TABLE;datetime;0
+column;OnOrderQty;Purchasing;ProductVendor;TABLE;int;1
+column;ProductID;Purchasing;ProductVendor;TABLE;int;0
+column;StandardPrice;Purchasing;ProductVendor;TABLE;money;0
+column;UnitMeasureCode;Purchasing;ProductVendor;TABLE;nchar;0
+column;BusinessEntityID;Person;BusinessEntityContact;TABLE;int;0
+column;ContactTypeID;Person;BusinessEntityContact;TABLE;int;0
+column;ModifiedDate;Person;BusinessEntityContact;TABLE;datetime;0
+column;PersonID;Person;BusinessEntityContact;TABLE;int;0
+column;rowguid;Person;BusinessEntityContact;TABLE;uniqueidentifier;0
+column;ModifiedDate;Production;UnitMeasure;TABLE;datetime;0
+column;Name;Production;UnitMeasure;TABLE;Name: nvarchar;0
+column;UnitMeasureCode;Production;UnitMeasure;TABLE;nchar;0
+column;AccountNumber;Purchasing;Vendor;TABLE;AccountNumber: nvarchar;0
+column;ActiveFlag;Purchasing;Vendor;TABLE;Flag: bit;0
+column;BusinessEntityID;Purchasing;Vendor;TABLE;int;0
+column;CreditRating;Purchasing;Vendor;TABLE;tinyint;0
+column;ModifiedDate;Purchasing;Vendor;TABLE;datetime;0
+column;Name;Purchasing;Vendor;TABLE;Name: nvarchar;0
+column;PreferredVendorStatus;Purchasing;Vendor;TABLE;Flag: bit;0
+column;PurchasingWebServiceURL;Purchasing;Vendor;TABLE;nvarchar;1
+column;ContactTypeID;Person;ContactType;TABLE;int;0
+column;ModifiedDate;Person;ContactType;TABLE;datetime;0
+column;Name;Person;ContactType;TABLE;Name: nvarchar;0
+column;CountryRegionCode;Sales;CountryRegionCurrency;TABLE;nvarchar;0
+column;CurrencyCode;Sales;CountryRegionCurrency;TABLE;nchar;0
+column;ModifiedDate;Sales;CountryRegionCurrency;TABLE;datetime;0
+column;CountryRegionCode;Person;CountryRegion;TABLE;nvarchar;0
+column;ModifiedDate;Person;CountryRegion;TABLE;datetime;0
+column;Name;Person;CountryRegion;TABLE;Name: nvarchar;0
+column;DueDate;Production;WorkOrder;TABLE;datetime;0
+column;EndDate;Production;WorkOrder;TABLE;datetime;1
+column;ModifiedDate;Production;WorkOrder;TABLE;datetime;0
+column;OrderQty;Production;WorkOrder;TABLE;int;0
+column;ProductID;Production;WorkOrder;TABLE;int;0
+column;ScrappedQty;Production;WorkOrder;TABLE;smallint;0
+column;ScrapReasonID;Production;WorkOrder;TABLE;smallint;1
+column;StartDate;Production;WorkOrder;TABLE;datetime;0
+column;StockedQty;Production;WorkOrder;TABLE;int;0
+column;WorkOrderID;Production;WorkOrder;TABLE;int;0
+column;DueDate;Purchasing;PurchaseOrderDetail;TABLE;datetime;0
+column;LineTotal;Purchasing;PurchaseOrderDetail;TABLE;money;0
+column;ModifiedDate;Purchasing;PurchaseOrderDetail;TABLE;datetime;0
+column;OrderQty;Purchasing;PurchaseOrderDetail;TABLE;smallint;0
+column;ProductID;Purchasing;PurchaseOrderDetail;TABLE;int;0
+column;PurchaseOrderDetailID;Purchasing;PurchaseOrderDetail;TABLE;int;0
+column;PurchaseOrderID;Purchasing;PurchaseOrderDetail;TABLE;int;0
+column;ReceivedQty;Purchasing;PurchaseOrderDetail;TABLE;decimal;0
+column;RejectedQty;Purchasing;PurchaseOrderDetail;TABLE;decimal;0
+column;StockedQty;Purchasing;PurchaseOrderDetail;TABLE;decimal;0
+column;UnitPrice;Purchasing;PurchaseOrderDetail;TABLE;money;0
+column;CardNumber;Sales;CreditCard;TABLE;nvarchar;0
+column;CardType;Sales;CreditCard;TABLE;nvarchar;0
+column;CreditCardID;Sales;CreditCard;TABLE;int;0
+column;ExpMonth;Sales;CreditCard;TABLE;tinyint;0
+column;ExpYear;Sales;CreditCard;TABLE;smallint;0
+column;ModifiedDate;Sales;CreditCard;TABLE;datetime;0
+column;CultureID;Production;Culture;TABLE;nchar;0
+column;ModifiedDate;Production;Culture;TABLE;datetime;0
+column;Name;Production;Culture;TABLE;Name: nvarchar;0
+column;ActualCost;Production;WorkOrderRouting;TABLE;money;1
+column;ActualEndDate;Production;WorkOrderRouting;TABLE;datetime;1
+column;ActualResourceHrs;Production;WorkOrderRouting;TABLE;decimal;1
+column;ActualStartDate;Production;WorkOrderRouting;TABLE;datetime;1
+column;LocationID;Production;WorkOrderRouting;TABLE;smallint;0
+column;ModifiedDate;Production;WorkOrderRouting;TABLE;datetime;0
+column;OperationSequence;Production;WorkOrderRouting;TABLE;smallint;0
+column;PlannedCost;Production;WorkOrderRouting;TABLE;money;0
+column;ProductID;Production;WorkOrderRouting;TABLE;int;0
+column;ScheduledEndDate;Production;WorkOrderRouting;TABLE;datetime;0
+column;ScheduledStartDate;Production;WorkOrderRouting;TABLE;datetime;0
+column;WorkOrderID;Production;WorkOrderRouting;TABLE;int;0
+column;CurrencyCode;Sales;Currency;TABLE;nchar;0
+column;ModifiedDate;Sales;Currency;TABLE;datetime;0
+column;Name;Sales;Currency;TABLE;Name: nvarchar;0
+column;EmployeeID;Purchasing;PurchaseOrderHeader;TABLE;int;0
+column;Freight;Purchasing;PurchaseOrderHeader;TABLE;money;0
+column;ModifiedDate;Purchasing;PurchaseOrderHeader;TABLE;datetime;0
+column;OrderDate;Purchasing;PurchaseOrderHeader;TABLE;datetime;0
+column;PurchaseOrderID;Purchasing;PurchaseOrderHeader;TABLE;int;0
+column;RevisionNumber;Purchasing;PurchaseOrderHeader;TABLE;tinyint;0
+column;ShipDate;Purchasing;PurchaseOrderHeader;TABLE;datetime;1
+column;ShipMethodID;Purchasing;PurchaseOrderHeader;TABLE;int;0
+column;Status;Purchasing;PurchaseOrderHeader;TABLE;tinyint;0
+column;SubTotal;Purchasing;PurchaseOrderHeader;TABLE;money;0
+column;TaxAmt;Purchasing;PurchaseOrderHeader;TABLE;money;0
+column;TotalDue;Purchasing;PurchaseOrderHeader;TABLE;money;0
+column;VendorID;Purchasing;PurchaseOrderHeader;TABLE;int;0
+column;AverageRate;Sales;CurrencyRate;TABLE;money;0
+column;CurrencyRateDate;Sales;CurrencyRate;TABLE;datetime;0
+column;CurrencyRateID;Sales;CurrencyRate;TABLE;int;0
+column;EndOfDayRate;Sales;CurrencyRate;TABLE;money;0
+column;FromCurrencyCode;Sales;CurrencyRate;TABLE;nchar;0
+column;ModifiedDate;Sales;CurrencyRate;TABLE;datetime;0
+column;ToCurrencyCode;Sales;CurrencyRate;TABLE;nchar;0
+column;AccountNumber;Sales;Customer;TABLE;varchar;0
+column;CustomerID;Sales;Customer;TABLE;int;0
+column;ModifiedDate;Sales;Customer;TABLE;datetime;0
+column;PersonID;Sales;Customer;TABLE;int;1
+column;rowguid;Sales;Customer;TABLE;uniqueidentifier;0
+column;StoreID;Sales;Customer;TABLE;int;1
+column;TerritoryID;Sales;Customer;TABLE;int;1
+column;DepartmentID;HumanResources;Department;TABLE;smallint;0
+column;GroupName;HumanResources;Department;TABLE;Name: nvarchar;0
+column;ModifiedDate;HumanResources;Department;TABLE;datetime;0
+column;Name;HumanResources;Department;TABLE;Name: nvarchar;0
+column;ChangeNumber;Production;Document;TABLE;int;0
+column;Document;Production;Document;TABLE;varbinary;1
+column;DocumentLevel;Production;Document;TABLE;smallint;1
+column;DocumentNode;Production;Document;TABLE;hierarchyid;0
+column;DocumentSummary;Production;Document;TABLE;nvarchar;1
+column;FileExtension;Production;Document;TABLE;nvarchar;0
+column;FileName;Production;Document;TABLE;nvarchar;0
+column;FolderFlag;Production;Document;TABLE;bit;0
+column;ModifiedDate;Production;Document;TABLE;datetime;0
+column;Owner;Production;Document;TABLE;int;0
+column;Revision;Production;Document;TABLE;nchar;0
+column;rowguid;Production;Document;TABLE;uniqueidentifier;0
+column;Status;Production;Document;TABLE;tinyint;0
+column;Title;Production;Document;TABLE;nvarchar;0
+column;CarrierTrackingNumber;Sales;SalesOrderDetail;TABLE;nvarchar;1
+column;LineTotal;Sales;SalesOrderDetail;TABLE;numeric;0
+column;ModifiedDate;Sales;SalesOrderDetail;TABLE;datetime;0
+column;OrderQty;Sales;SalesOrderDetail;TABLE;smallint;0
+column;ProductID;Sales;SalesOrderDetail;TABLE;int;0
+column;rowguid;Sales;SalesOrderDetail;TABLE;uniqueidentifier;0
+column;SalesOrderDetailID;Sales;SalesOrderDetail;TABLE;int;0
+column;SalesOrderID;Sales;SalesOrderDetail;TABLE;int;0
+column;SpecialOfferID;Sales;SalesOrderDetail;TABLE;int;0
+column;UnitPrice;Sales;SalesOrderDetail;TABLE;money;0
+column;UnitPriceDiscount;Sales;SalesOrderDetail;TABLE;money;0
+column;BusinessEntityID;Person;EmailAddress;TABLE;int;0
+column;EmailAddress;Person;EmailAddress;TABLE;nvarchar;1
+column;EmailAddressID;Person;EmailAddress;TABLE;int;0
+column;ModifiedDate;Person;EmailAddress;TABLE;datetime;0
+column;rowguid;Person;EmailAddress;TABLE;uniqueidentifier;0
+column;BirthDate;HumanResources;Employee;TABLE;date;0
+column;BusinessEntityID;HumanResources;Employee;TABLE;int;0
+column;CurrentFlag;HumanResources;Employee;TABLE;Flag: bit;0
+column;Gender;HumanResources;Employee;TABLE;nchar;0
+column;HireDate;HumanResources;Employee;TABLE;date;0
+column;JobTitle;HumanResources;Employee;TABLE;nvarchar;0
+column;LoginID;HumanResources;Employee;TABLE;nvarchar;0
+column;MaritalStatus;HumanResources;Employee;TABLE;nchar;0
+column;ModifiedDate;HumanResources;Employee;TABLE;datetime;0
+column;NationalIDNumber;HumanResources;Employee;TABLE;nvarchar;0
+column;OrganizationLevel;HumanResources;Employee;TABLE;smallint;1
+column;OrganizationNode;HumanResources;Employee;TABLE;hierarchyid;1
+column;rowguid;HumanResources;Employee;TABLE;uniqueidentifier;0
+column;SalariedFlag;HumanResources;Employee;TABLE;Flag: bit;0
+column;SickLeaveHours;HumanResources;Employee;TABLE;smallint;0
+column;VacationHours;HumanResources;Employee;TABLE;smallint;0
+column;AccountNumber;Sales;SalesOrderHeader;TABLE;AccountNumber: nvarchar;1
+column;BillToAddressID;Sales;SalesOrderHeader;TABLE;int;0
+column;Comment;Sales;SalesOrderHeader;TABLE;nvarchar;1
+column;CreditCardApprovalCode;Sales;SalesOrderHeader;TABLE;varchar;1
+column;CreditCardID;Sales;SalesOrderHeader;TABLE;int;1
+column;CurrencyRateID;Sales;SalesOrderHeader;TABLE;int;1
+column;CustomerID;Sales;SalesOrderHeader;TABLE;int;0
+column;DueDate;Sales;SalesOrderHeader;TABLE;datetime;0
+column;Freight;Sales;SalesOrderHeader;TABLE;money;0
+column;ModifiedDate;Sales;SalesOrderHeader;TABLE;datetime;0
+column;OnlineOrderFlag;Sales;SalesOrderHeader;TABLE;Flag: bit;0
+column;OrderDate;Sales;SalesOrderHeader;TABLE;datetime;0
+column;PurchaseOrderNumber;Sales;SalesOrderHeader;TABLE;OrderNumber: nvarchar;1
+column;RevisionNumber;Sales;SalesOrderHeader;TABLE;tinyint;0
+column;rowguid;Sales;SalesOrderHeader;TABLE;uniqueidentifier;0
+column;SalesOrderID;Sales;SalesOrderHeader;TABLE;int;0
+column;SalesOrderNumber;Sales;SalesOrderHeader;TABLE;nvarchar;0
+column;SalesPersonID;Sales;SalesOrderHeader;TABLE;int;1
+column;ShipDate;Sales;SalesOrderHeader;TABLE;datetime;1
+column;ShipMethodID;Sales;SalesOrderHeader;TABLE;int;0
+column;ShipToAddressID;Sales;SalesOrderHeader;TABLE;int;0
+column;Status;Sales;SalesOrderHeader;TABLE;tinyint;0
+column;SubTotal;Sales;SalesOrderHeader;TABLE;money;0
+column;TaxAmt;Sales;SalesOrderHeader;TABLE;money;0
+column;TerritoryID;Sales;SalesOrderHeader;TABLE;int;1
+column;TotalDue;Sales;SalesOrderHeader;TABLE;money;0
+column;BusinessEntityID;HumanResources;EmployeeDepartmentHistory;TABLE;int;0
+column;DepartmentID;HumanResources;EmployeeDepartmentHistory;TABLE;smallint;0
+column;EndDate;HumanResources;EmployeeDepartmentHistory;TABLE;date;1
+column;ModifiedDate;HumanResources;EmployeeDepartmentHistory;TABLE;datetime;0
+column;ShiftID;HumanResources;EmployeeDepartmentHistory;TABLE;tinyint;0
+column;StartDate;HumanResources;EmployeeDepartmentHistory;TABLE;date;0
+(No column name);name;table_schema;table_name;(No column name);datatype;nullable
+column;yearID;dbo;seriespost;TABLE;int;0
+column;round;dbo;seriespost;TABLE;varchar;0
+column;teamIDwinner;dbo;seriespost;TABLE;varchar;1
+column;lgIDwinner;dbo;seriespost;TABLE;varchar;1
+column;teamIDloser;dbo;seriespost;TABLE;varchar;1
+column;lgIDloser;dbo;seriespost;TABLE;varchar;1
+column;wins;dbo;seriespost;TABLE;int;1
+column;losses;dbo;seriespost;TABLE;int;1
+column;ties;dbo;seriespost;TABLE;int;1
+column;hofID;dbo;halloffame;TABLE;varchar;0
+column;yearID;dbo;halloffame;TABLE;int;0
+column;votedBy;dbo;halloffame;TABLE;varchar;1
+column;ballots;dbo;halloffame;TABLE;int;1
+column;needed;dbo;halloffame;TABLE;int;1
+column;votes;dbo;halloffame;TABLE;int;1
+column;inducted;dbo;halloffame;TABLE;varchar;1
+column;category;dbo;halloffame;TABLE;varchar;1
+column;playerID;dbo;allstarfull;TABLE;varchar;0
+column;yearID;dbo;allstarfull;TABLE;int;0
+column;gameNum;dbo;allstarfull;TABLE;int;0
+column;gameID;dbo;allstarfull;TABLE;varchar;1
+column;teamID;dbo;allstarfull;TABLE;varchar;1
+column;lgID;dbo;allstarfull;TABLE;varchar;1
+column;GP;dbo;allstarfull;TABLE;int;1
+column;startingPos;dbo;allstarfull;TABLE;int;1
+column;yearID;dbo;teams;TABLE;int;0
+column;lgID;dbo;teams;TABLE;varchar;0
+column;teamID;dbo;teams;TABLE;varchar;0
+column;franchID;dbo;teams;TABLE;varchar;1
+column;divID;dbo;teams;TABLE;varchar;1
+column;Rank;dbo;teams;TABLE;int;1
+column;G;dbo;teams;TABLE;int;1
+column;Ghome;dbo;teams;TABLE;int;1
+column;W;dbo;teams;TABLE;int;1
+column;L;dbo;teams;TABLE;int;1
+column;DivWin;dbo;teams;TABLE;varchar;1
+column;WCWin;dbo;teams;TABLE;varchar;1
+column;LgWin;dbo;teams;TABLE;varchar;1
+column;WSWin;dbo;teams;TABLE;varchar;1
+column;R;dbo;teams;TABLE;int;1
+column;AB;dbo;teams;TABLE;int;1
+column;H;dbo;teams;TABLE;int;1
+column;2B;dbo;teams;TABLE;int;1
+column;3B;dbo;teams;TABLE;int;1
+column;HR;dbo;teams;TABLE;int;1
+column;BB;dbo;teams;TABLE;int;1
+column;SO;dbo;teams;TABLE;int;1
+column;SB;dbo;teams;TABLE;int;1
+column;CS;dbo;teams;TABLE;int;1
+column;HBP;dbo;teams;TABLE;int;1
+column;SF;dbo;teams;TABLE;int;1
+column;RA;dbo;teams;TABLE;int;1
+column;ER;dbo;teams;TABLE;int;1
+column;ERA;dbo;teams;TABLE;int;1
+column;CG;dbo;teams;TABLE;int;1
+column;SHO;dbo;teams;TABLE;int;1
+column;SV;dbo;teams;TABLE;int;1
+column;IPouts;dbo;teams;TABLE;int;1
+column;HA;dbo;teams;TABLE;int;1
+column;HRA;dbo;teams;TABLE;int;1
+column;BBA;dbo;teams;TABLE;int;1
+column;SOA;dbo;teams;TABLE;int;1
+column;E;dbo;teams;TABLE;int;1
+column;DP;dbo;teams;TABLE;int;1
+column;FP;dbo;teams;TABLE;int;1
+column;name;dbo;teams;TABLE;varchar;1
+column;park;dbo;teams;TABLE;varchar;1
+column;attendance;dbo;teams;TABLE;int;1
+column;BPF;dbo;teams;TABLE;int;1
+column;PPF;dbo;teams;TABLE;int;1
+column;teamIDBR;dbo;teams;TABLE;varchar;1
+column;teamIDlahman45;dbo;teams;TABLE;varchar;1
+column;teamIDretro;dbo;teams;TABLE;varchar;1
+column;managerID;dbo;managers;TABLE;varchar;1
+column;yearID;dbo;managers;TABLE;int;0
+column;teamID;dbo;managers;TABLE;varchar;0
+column;lgID;dbo;managers;TABLE;varchar;1
+column;inseason;dbo;managers;TABLE;int;0
+column;G;dbo;managers;TABLE;int;1
+column;W;dbo;managers;TABLE;int;1
+column;L;dbo;managers;TABLE;int;1
+column;rank;dbo;managers;TABLE;int;1
+column;plyrMgr;dbo;managers;TABLE;varchar;1
+column;yearID;dbo;appearances;TABLE;int;0
+column;teamID;dbo;appearances;TABLE;varchar;0
+column;lgID;dbo;appearances;TABLE;varchar;1
+column;playerID;dbo;appearances;TABLE;varchar;0
+column;G_all;dbo;appearances;TABLE;int;1
+column;G_batting;dbo;appearances;TABLE;int;1
+column;G_defense;dbo;appearances;TABLE;int;1
+column;G_p;dbo;appearances;TABLE;int;1
+column;G_c;dbo;appearances;TABLE;int;1
+column;G_1b;dbo;appearances;TABLE;int;1
+column;G_2b;dbo;appearances;TABLE;int;1
+column;G_3b;dbo;appearances;TABLE;int;1
+column;G_ss;dbo;appearances;TABLE;int;1
+column;G_lf;dbo;appearances;TABLE;int;1
+column;G_cf;dbo;appearances;TABLE;int;1
+column;G_rf;dbo;appearances;TABLE;int;1
+column;G_of;dbo;appearances;TABLE;int;1
+column;G_dh;dbo;appearances;TABLE;int;1
+column;G_ph;dbo;appearances;TABLE;int;1
+column;G_pr;dbo;appearances;TABLE;int;1
+column;managerID;dbo;managershalf;TABLE;varchar;0
+column;yearID;dbo;managershalf;TABLE;int;0
+column;teamID;dbo;managershalf;TABLE;varchar;0
+column;lgID;dbo;managershalf;TABLE;varchar;1
+column;inseason;dbo;managershalf;TABLE;int;1
+column;half;dbo;managershalf;TABLE;int;0
+column;G;dbo;managershalf;TABLE;int;1
+column;W;dbo;managershalf;TABLE;int;1
+column;L;dbo;managershalf;TABLE;int;1
+column;rank;dbo;managershalf;TABLE;int;1
+column;lahmanID;dbo;players;TABLE;int;0
+column;playerID;dbo;players;TABLE;varchar;1
+column;managerID;dbo;players;TABLE;varchar;1
+column;hofID;dbo;players;TABLE;varchar;1
+column;birthYear;dbo;players;TABLE;int;1
+column;birthMonth;dbo;players;TABLE;int;1
+column;birthDay;dbo;players;TABLE;int;1
+column;birthCountry;dbo;players;TABLE;varchar;1
+column;birthState;dbo;players;TABLE;varchar;1
+column;birthCity;dbo;players;TABLE;varchar;1
+column;deathYear;dbo;players;TABLE;int;1
+column;deathMonth;dbo;players;TABLE;int;1
+column;deathDay;dbo;players;TABLE;int;1
+column;deathCountry;dbo;players;TABLE;varchar;1
+column;deathState;dbo;players;TABLE;varchar;1
+column;deathCity;dbo;players;TABLE;varchar;1
+column;nameFirst;dbo;players;TABLE;varchar;1
+column;nameLast;dbo;players;TABLE;varchar;1
+column;nameNote;dbo;players;TABLE;varchar;1
+column;nameGiven;dbo;players;TABLE;varchar;1
+column;nameNick;dbo;players;TABLE;varchar;1
+column;weight;dbo;players;TABLE;int;1
+column;height;dbo;players;TABLE;int;1
+column;bats;dbo;players;TABLE;varchar;1
+column;throws;dbo;players;TABLE;varchar;1
+column;debut;dbo;players;TABLE;varchar;1
+column;finalGame;dbo;players;TABLE;varchar;1
+column;college;dbo;players;TABLE;varchar;1
+column;lahman40ID;dbo;players;TABLE;varchar;1
+column;lahman45ID;dbo;players;TABLE;varchar;1
+column;retroID;dbo;players;TABLE;varchar;1
+column;holtzID;dbo;players;TABLE;varchar;1
+column;bbrefID;dbo;players;TABLE;varchar;1
+column;managerID;dbo;awardsmanagers;TABLE;varchar;0
+column;awardID;dbo;awardsmanagers;TABLE;varchar;0
+column;yearID;dbo;awardsmanagers;TABLE;int;0
+column;lgID;dbo;awardsmanagers;TABLE;varchar;0
+column;tie;dbo;awardsmanagers;TABLE;varchar;1
+column;notes;dbo;awardsmanagers;TABLE;varchar;1
+column;playerID;dbo;awardsplayers;TABLE;varchar;0
+column;awardID;dbo;awardsplayers;TABLE;varchar;0
+column;yearID;dbo;awardsplayers;TABLE;int;0
+column;lgID;dbo;awardsplayers;TABLE;varchar;0
+column;tie;dbo;awardsplayers;TABLE;varchar;1
+column;notes;dbo;awardsplayers;TABLE;varchar;1
+column;awardID;dbo;awardssharemanagers;TABLE;varchar;0
+column;yearID;dbo;awardssharemanagers;TABLE;int;0
+column;lgID;dbo;awardssharemanagers;TABLE;varchar;0
+column;managerID;dbo;awardssharemanagers;TABLE;varchar;0
+column;pointsWon;dbo;awardssharemanagers;TABLE;int;1
+column;pointsMax;dbo;awardssharemanagers;TABLE;int;1
+column;votesFirst;dbo;awardssharemanagers;TABLE;int;1
+column;awardID;dbo;awardsshareplayers;TABLE;varchar;0
+column;yearID;dbo;awardsshareplayers;TABLE;int;0
+column;lgID;dbo;awardsshareplayers;TABLE;varchar;0
+column;playerID;dbo;awardsshareplayers;TABLE;varchar;0
+column;pointsWon;dbo;awardsshareplayers;TABLE;int;1
+column;pointsMax;dbo;awardsshareplayers;TABLE;int;1
+column;votesFirst;dbo;awardsshareplayers;TABLE;int;1
+column;franchID;dbo;teamsfranchises;TABLE;varchar;0
+column;franchName;dbo;teamsfranchises;TABLE;varchar;1
+column;active;dbo;teamsfranchises;TABLE;varchar;1
+column;NAassoc;dbo;teamsfranchises;TABLE;varchar;1
+column;playerID;dbo;batting;TABLE;varchar;0
+column;yearID;dbo;batting;TABLE;int;0
+column;stint;dbo;batting;TABLE;int;0
+column;teamID;dbo;batting;TABLE;varchar;1
+column;lgID;dbo;batting;TABLE;varchar;1
+column;G;dbo;batting;TABLE;int;1
+column;G_batting;dbo;batting;TABLE;int;1
+column;AB;dbo;batting;TABLE;int;1
+column;R;dbo;batting;TABLE;int;1
+column;H;dbo;batting;TABLE;int;1
+column;2B;dbo;batting;TABLE;int;1
+column;3B;dbo;batting;TABLE;int;1
+column;HR;dbo;batting;TABLE;int;1
+column;RBI;dbo;batting;TABLE;int;1
+column;SB;dbo;batting;TABLE;int;1
+column;CS;dbo;batting;TABLE;int;1
+column;BB;dbo;batting;TABLE;int;1
+column;SO;dbo;batting;TABLE;int;1
+column;IBB;dbo;batting;TABLE;int;1
+column;HBP;dbo;batting;TABLE;int;1
+column;SH;dbo;batting;TABLE;int;1
+column;SF;dbo;batting;TABLE;int;1
+column;GIDP;dbo;batting;TABLE;int;1
+column;G_old;dbo;batting;TABLE;int;1
+column;yearID;dbo;teamshalf;TABLE;int;0
+column;lgID;dbo;teamshalf;TABLE;varchar;0
+column;teamID;dbo;teamshalf;TABLE;varchar;0
+column;Half;dbo;teamshalf;TABLE;varchar;0
+column;divID;dbo;teamshalf;TABLE;varchar;1
+column;DivWin;dbo;teamshalf;TABLE;varchar;1
+column;Rank;dbo;teamshalf;TABLE;int;1
+column;G;dbo;teamshalf;TABLE;int;1
+column;W;dbo;teamshalf;TABLE;int;1
+column;L;dbo;teamshalf;TABLE;int;1
+column;playerID;dbo;pitching;TABLE;varchar;0
+column;yearID;dbo;pitching;TABLE;int;0
+column;stint;dbo;pitching;TABLE;int;0
+column;teamID;dbo;pitching;TABLE;varchar;1
+column;lgID;dbo;pitching;TABLE;varchar;1
+column;W;dbo;pitching;TABLE;int;1
+column;L;dbo;pitching;TABLE;int;1
+column;G;dbo;pitching;TABLE;int;1
+column;GS;dbo;pitching;TABLE;int;1
+column;CG;dbo;pitching;TABLE;int;1
+column;SHO;dbo;pitching;TABLE;int;1
+column;SV;dbo;pitching;TABLE;int;1
+column;IPouts;dbo;pitching;TABLE;int;1
+column;H;dbo;pitching;TABLE;int;1
+column;ER;dbo;pitching;TABLE;int;1
+column;HR;dbo;pitching;TABLE;int;1
+column;BB;dbo;pitching;TABLE;int;1
+column;SO;dbo;pitching;TABLE;int;1
+column;BAOpp;dbo;pitching;TABLE;int;1
+column;ERA;dbo;pitching;TABLE;int;1
+column;IBB;dbo;pitching;TABLE;int;1
+column;WP;dbo;pitching;TABLE;int;1
+column;HBP;dbo;pitching;TABLE;int;1
+column;BK;dbo;pitching;TABLE;int;1
+column;BFP;dbo;pitching;TABLE;int;1
+column;GF;dbo;pitching;TABLE;int;1
+column;R;dbo;pitching;TABLE;int;1
+column;SH;dbo;pitching;TABLE;int;1
+column;SF;dbo;pitching;TABLE;int;1
+column;GIDP;dbo;pitching;TABLE;int;1
+column;id;dbo;els_teamnames;TABLE;int;0
+column;lgid;dbo;els_teamnames;TABLE;varchar;0
+column;teamid;dbo;els_teamnames;TABLE;varchar;0
+column;franchid;dbo;els_teamnames;TABLE;varchar;1
+column;name;dbo;els_teamnames;TABLE;varchar;1
+column;park;dbo;els_teamnames;TABLE;varchar;1
+column;yearID;dbo;battingpost;TABLE;int;0
+column;round;dbo;battingpost;TABLE;varchar;0
+column;playerID;dbo;battingpost;TABLE;varchar;0
+column;teamID;dbo;battingpost;TABLE;varchar;1
+column;lgID;dbo;battingpost;TABLE;varchar;1
+column;G;dbo;battingpost;TABLE;int;1
+column;AB;dbo;battingpost;TABLE;int;1
+column;R;dbo;battingpost;TABLE;int;1
+column;H;dbo;battingpost;TABLE;int;1
+column;2B;dbo;battingpost;TABLE;int;1
+column;3B;dbo;battingpost;TABLE;int;1
+column;HR;dbo;battingpost;TABLE;int;1
+column;RBI;dbo;battingpost;TABLE;int;1
+column;SB;dbo;battingpost;TABLE;int;1
+column;CS;dbo;battingpost;TABLE;int;1
+column;BB;dbo;battingpost;TABLE;int;1
+column;SO;dbo;battingpost;TABLE;int;1
+column;IBB;dbo;battingpost;TABLE;int;1
+column;HBP;dbo;battingpost;TABLE;int;1
+column;SH;dbo;battingpost;TABLE;int;1
+column;SF;dbo;battingpost;TABLE;int;1
+column;GIDP;dbo;battingpost;TABLE;int;1
+column;playerID;dbo;pitchingpost;TABLE;varchar;0
+column;yearID;dbo;pitchingpost;TABLE;int;0
+column;round;dbo;pitchingpost;TABLE;varchar;0
+column;teamID;dbo;pitchingpost;TABLE;varchar;1
+column;lgID;dbo;pitchingpost;TABLE;varchar;1
+column;W;dbo;pitchingpost;TABLE;int;1
+column;L;dbo;pitchingpost;TABLE;int;1
+column;G;dbo;pitchingpost;TABLE;int;1
+column;GS;dbo;pitchingpost;TABLE;int;1
+column;CG;dbo;pitchingpost;TABLE;int;1
+column;SHO;dbo;pitchingpost;TABLE;int;1
+column;SV;dbo;pitchingpost;TABLE;int;1
+column;IPouts;dbo;pitchingpost;TABLE;int;1
+column;H;dbo;pitchingpost;TABLE;int;1
+column;ER;dbo;pitchingpost;TABLE;int;1
+column;HR;dbo;pitchingpost;TABLE;int;1
+column;BB;dbo;pitchingpost;TABLE;int;1
+column;SO;dbo;pitchingpost;TABLE;int;1
+column;BAOpp;dbo;pitchingpost;TABLE;int;1
+column;ERA;dbo;pitchingpost;TABLE;int;1
+column;IBB;dbo;pitchingpost;TABLE;int;1
+column;WP;dbo;pitchingpost;TABLE;int;1
+column;HBP;dbo;pitchingpost;TABLE;int;1
+column;BK;dbo;pitchingpost;TABLE;int;1
+column;BFP;dbo;pitchingpost;TABLE;int;1
+column;GF;dbo;pitchingpost;TABLE;int;1
+column;R;dbo;pitchingpost;TABLE;int;1
+column;SH;dbo;pitchingpost;TABLE;int;1
+column;SF;dbo;pitchingpost;TABLE;int;1
+column;GIDP;dbo;pitchingpost;TABLE;int;1
+column;playerID;dbo;fielding;TABLE;varchar;0
+column;yearID;dbo;fielding;TABLE;int;0
+column;stint;dbo;fielding;TABLE;int;0
+column;teamID;dbo;fielding;TABLE;varchar;1
+column;lgID;dbo;fielding;TABLE;varchar;1
+column;POS;dbo;fielding;TABLE;varchar;0
+column;G;dbo;fielding;TABLE;int;1
+column;GS;dbo;fielding;TABLE;int;1
+column;InnOuts;dbo;fielding;TABLE;int;1
+column;PO;dbo;fielding;TABLE;int;1
+column;A;dbo;fielding;TABLE;int;1
+column;E;dbo;fielding;TABLE;int;1
+column;DP;dbo;fielding;TABLE;int;1
+column;PB;dbo;fielding;TABLE;int;1
+column;WP;dbo;fielding;TABLE;int;1
+column;SB;dbo;fielding;TABLE;int;1
+column;CS;dbo;fielding;TABLE;int;1
+column;ZR;dbo;fielding;TABLE;int;1
+column;playerID;dbo;schoolsplayers;TABLE;nvarchar;0
+column;schoolID;dbo;schoolsplayers;TABLE;nvarchar;0
+column;yearMin;dbo;schoolsplayers;TABLE;int;1
+column;yearMax;dbo;schoolsplayers;TABLE;int;1
+column;schoolID;dbo;schools;TABLE;nvarchar;0
+column;schoolName;dbo;schools;TABLE;nvarchar;1
+column;schoolCity;dbo;schools;TABLE;nvarchar;1
+column;schoolState;dbo;schools;TABLE;nvarchar;1
+column;schoolNick;dbo;schools;TABLE;nvarchar;1
+column;yearID;dbo;salaries;TABLE;int;0
+column;teamID;dbo;salaries;TABLE;varchar;0
+column;lgID;dbo;salaries;TABLE;varchar;0
+column;playerID;dbo;salaries;TABLE;varchar;0
+column;salary;dbo;salaries;TABLE;int;1
+column;playerID;dbo;fieldingof;TABLE;varchar;0
+column;yearID;dbo;fieldingof;TABLE;int;0
+column;stint;dbo;fieldingof;TABLE;int;0
+column;Glf;dbo;fieldingof;TABLE;int;1
+column;Gcf;dbo;fieldingof;TABLE;int;1
+column;Grf;dbo;fieldingof;TABLE;int;1
+column;playerID;dbo;fieldingpost;TABLE;varchar;0
+column;yearID;dbo;fieldingpost;TABLE;int;0
+column;teamID;dbo;fieldingpost;TABLE;varchar;1
+column;lgID;dbo;fieldingpost;TABLE;varchar;1
+column;round;dbo;fieldingpost;TABLE;varchar;0
+column;POS;dbo;fieldingpost;TABLE;varchar;0
+column;G;dbo;fieldingpost;TABLE;int;1
+column;GS;dbo;fieldingpost;TABLE;int;1
+column;InnOuts;dbo;fieldingpost;TABLE;int;1
+column;PO;dbo;fieldingpost;TABLE;int;1
+column;A;dbo;fieldingpost;TABLE;int;1
+column;E;dbo;fieldingpost;TABLE;int;1
+column;DP;dbo;fieldingpost;TABLE;int;1
+column;TP;dbo;fieldingpost;TABLE;int;1
+column;PB;dbo;fieldingpost;TABLE;int;1
+column;SB;dbo;fieldingpost;TABLE;int;1
+column;CS;dbo;fieldingpost;TABLE;int;1
+(No column name);name;table_schema;table_name;(No column name);datatype;nullable
+column;Country;dbo;Employees;TABLE;nvarchar;1
+column;HomePhone;dbo;Employees;TABLE;nvarchar;1
+column;Extension;dbo;Employees;TABLE;nvarchar;1
+column;Photo;dbo;Employees;TABLE;image;1
+column;Notes;dbo;Employees;TABLE;ntext;1
+column;ReportsTo;dbo;Employees;TABLE;int;1
+column;PhotoPath;dbo;Employees;TABLE;nvarchar;1
+column;CategoryID;dbo;Categories;TABLE;int;0
+column;CategoryName;dbo;Categories;TABLE;nvarchar;0
+column;Description;dbo;Categories;TABLE;ntext;1
+column;Picture;dbo;Categories;TABLE;image;1
+column;CustomerID;dbo;Customers;TABLE;nchar;0
+column;CompanyName;dbo;Customers;TABLE;nvarchar;0
+column;ContactName;dbo;Customers;TABLE;nvarchar;1
+column;ContactTitle;dbo;Customers;TABLE;nvarchar;1
+column;Address;dbo;Customers;TABLE;nvarchar;1
+column;City;dbo;Customers;TABLE;nvarchar;1
+column;Region;dbo;Customers;TABLE;nvarchar;1
+column;PostalCode;dbo;Customers;TABLE;nvarchar;1
+column;Country;dbo;Customers;TABLE;nvarchar;1
+column;Phone;dbo;Customers;TABLE;nvarchar;1
+column;Fax;dbo;Customers;TABLE;nvarchar;1
+column;ShipperID;dbo;Shippers;TABLE;int;0
+column;CompanyName;dbo;Shippers;TABLE;nvarchar;0
+column;Phone;dbo;Shippers;TABLE;nvarchar;1
+column;SupplierID;dbo;Suppliers;TABLE;int;0
+column;CompanyName;dbo;Suppliers;TABLE;nvarchar;0
+column;ContactName;dbo;Suppliers;TABLE;nvarchar;1
+column;ContactTitle;dbo;Suppliers;TABLE;nvarchar;1
+column;Address;dbo;Suppliers;TABLE;nvarchar;1
+column;City;dbo;Suppliers;TABLE;nvarchar;1
+column;Region;dbo;Suppliers;TABLE;nvarchar;1
+column;PostalCode;dbo;Employees;TABLE;nvarchar;1
+column;Region;dbo;Employees;TABLE;nvarchar;1
+column;City;dbo;Employees;TABLE;nvarchar;1
+column;Address;dbo;Employees;TABLE;nvarchar;1
+column;HireDate;dbo;Employees;TABLE;datetime;1
+column;BirthDate;dbo;Employees;TABLE;datetime;1
+column;TitleOfCourtesy;dbo;Employees;TABLE;nvarchar;1
+column;Title;dbo;Employees;TABLE;nvarchar;1
+column;FirstName;dbo;Employees;TABLE;nvarchar;0
+column;LastName;dbo;Employees;TABLE;nvarchar;0
+column;EmployeeID;dbo;Employees;TABLE;int;0
+column;PostalCode;dbo;Suppliers;TABLE;nvarchar;1
+column;Country;dbo;Suppliers;TABLE;nvarchar;1
+column;Phone;dbo;Suppliers;TABLE;nvarchar;1
+column;Fax;dbo;Suppliers;TABLE;nvarchar;1
+column;HomePage;dbo;Suppliers;TABLE;ntext;1
+column;OrderID;dbo;Orders;TABLE;int;0
+column;CustomerID;dbo;Orders;TABLE;nchar;1
+column;EmployeeID;dbo;Orders;TABLE;int;1
+column;OrderDate;dbo;Orders;TABLE;datetime;1
+column;RequiredDate;dbo;Orders;TABLE;datetime;1
+column;ShippedDate;dbo;Orders;TABLE;datetime;1
+column;ShipVia;dbo;Orders;TABLE;int;1
+column;Freight;dbo;Orders;TABLE;money;1
+column;ShipName;dbo;Orders;TABLE;nvarchar;1
+column;ShipAddress;dbo;Orders;TABLE;nvarchar;1
+column;ShipCity;dbo;Orders;TABLE;nvarchar;1
+column;ShipRegion;dbo;Orders;TABLE;nvarchar;1
+column;ShipPostalCode;dbo;Orders;TABLE;nvarchar;1
+column;ShipCountry;dbo;Orders;TABLE;nvarchar;1
+column;ProductID;dbo;Products;TABLE;int;0
+column;ProductName;dbo;Products;TABLE;nvarchar;0
+column;SupplierID;dbo;Products;TABLE;int;1
+column;CategoryID;dbo;Products;TABLE;int;1
+column;QuantityPerUnit;dbo;Products;TABLE;nvarchar;1
+column;UnitPrice;dbo;Products;TABLE;money;1
+column;UnitsInStock;dbo;Products;TABLE;smallint;1
+column;UnitsOnOrder;dbo;Products;TABLE;smallint;1
+column;ReorderLevel;dbo;Products;TABLE;smallint;1
+column;Discontinued;dbo;Products;TABLE;bit;0
+column;OrderID;dbo;Order Details;TABLE;int;0
+column;ProductID;dbo;Order Details;TABLE;int;0
+column;UnitPrice;dbo;Order Details;TABLE;money;0
+column;Quantity;dbo;Order Details;TABLE;smallint;0
+column;Discount;dbo;Order Details;TABLE;real;0
+column;City;dbo;Customer and Suppliers by City;TABLE;nvarchar;1
+column;CompanyName;dbo;Customer and Suppliers by City;TABLE;nvarchar;0
+column;ContactName;dbo;Customer and Suppliers by City;TABLE;nvarchar;1
+column;Relationship;dbo;Customer and Suppliers by City;TABLE;varchar;0
+column;ProductID;dbo;Alphabetical list of products;TABLE;int;0
+column;ProductName;dbo;Alphabetical list of products;TABLE;nvarchar;0
+column;SupplierID;dbo;Alphabetical list of products;TABLE;int;1
+column;CategoryID;dbo;Alphabetical list of products;TABLE;int;1
+column;QuantityPerUnit;dbo;Alphabetical list of products;TABLE;nvarchar;1
+column;UnitPrice;dbo;Alphabetical list of products;TABLE;money;1
+column;UnitsInStock;dbo;Alphabetical list of products;TABLE;smallint;1
+column;UnitsOnOrder;dbo;Alphabetical list of products;TABLE;smallint;1
+column;ReorderLevel;dbo;Alphabetical list of products;TABLE;smallint;1
+column;Discontinued;dbo;Alphabetical list of products;TABLE;bit;0
+column;CategoryName;dbo;Alphabetical list of products;TABLE;nvarchar;0
+column;ProductID;dbo;Current Product List;TABLE;int;0
+column;ProductName;dbo;Current Product List;TABLE;nvarchar;0
+column;OrderID;dbo;Orders Qry;TABLE;int;0
+column;CustomerID;dbo;Orders Qry;TABLE;nchar;1
+column;EmployeeID;dbo;Orders Qry;TABLE;int;1
+column;OrderDate;dbo;Orders Qry;TABLE;datetime;1
+column;RequiredDate;dbo;Orders Qry;TABLE;datetime;1
+column;ShippedDate;dbo;Orders Qry;TABLE;datetime;1
+column;ShipVia;dbo;Orders Qry;TABLE;int;1
+column;Freight;dbo;Orders Qry;TABLE;money;1
+column;ShipName;dbo;Orders Qry;TABLE;nvarchar;1
+column;ShipAddress;dbo;Orders Qry;TABLE;nvarchar;1
+column;ShipCity;dbo;Orders Qry;TABLE;nvarchar;1
+column;ShipRegion;dbo;Orders Qry;TABLE;nvarchar;1
+column;ShipPostalCode;dbo;Orders Qry;TABLE;nvarchar;1
+column;ShipCountry;dbo;Orders Qry;TABLE;nvarchar;1
+column;CompanyName;dbo;Orders Qry;TABLE;nvarchar;0
+column;Address;dbo;Orders Qry;TABLE;nvarchar;1
+column;City;dbo;Orders Qry;TABLE;nvarchar;1
+column;Region;dbo;Orders Qry;TABLE;nvarchar;1
+column;PostalCode;dbo;Orders Qry;TABLE;nvarchar;1
+column;Country;dbo;Orders Qry;TABLE;nvarchar;1
+column;ProductName;dbo;Products Above Average Price;TABLE;nvarchar;0
+column;UnitPrice;dbo;Products Above Average Price;TABLE;money;1
+column;CategoryName;dbo;Products by Category;TABLE;nvarchar;0
+column;ProductName;dbo;Products by Category;TABLE;nvarchar;0
+column;QuantityPerUnit;dbo;Products by Category;TABLE;nvarchar;1
+column;UnitsInStock;dbo;Products by Category;TABLE;smallint;1
+column;Discontinued;dbo;Products by Category;TABLE;bit;0
+column;CustomerID;dbo;Quarterly Orders;TABLE;nchar;1
+column;CompanyName;dbo;Quarterly Orders;TABLE;nvarchar;1
+column;City;dbo;Quarterly Orders;TABLE;nvarchar;1
+column;Country;dbo;Quarterly Orders;TABLE;nvarchar;1
+column;ShipName;dbo;Invoices;TABLE;nvarchar;1
+column;ShipAddress;dbo;Invoices;TABLE;nvarchar;1
+column;ShipCity;dbo;Invoices;TABLE;nvarchar;1
+column;ShipRegion;dbo;Invoices;TABLE;nvarchar;1
+column;ShipPostalCode;dbo;Invoices;TABLE;nvarchar;1
+column;ShipCountry;dbo;Invoices;TABLE;nvarchar;1
+column;CustomerID;dbo;Invoices;TABLE;nchar;1
+column;CustomerName;dbo;Invoices;TABLE;nvarchar;0
+column;Address;dbo;Invoices;TABLE;nvarchar;1
+column;City;dbo;Invoices;TABLE;nvarchar;1
+column;Region;dbo;Invoices;TABLE;nvarchar;1
+column;PostalCode;dbo;Invoices;TABLE;nvarchar;1
+column;Country;dbo;Invoices;TABLE;nvarchar;1
+column;Salesperson;dbo;Invoices;TABLE;nvarchar;0
+column;OrderID;dbo;Invoices;TABLE;int;0
+column;OrderDate;dbo;Invoices;TABLE;datetime;1
+column;RequiredDate;dbo;Invoices;TABLE;datetime;1
+column;ShippedDate;dbo;Invoices;TABLE;datetime;1
+column;ShipperName;dbo;Invoices;TABLE;nvarchar;0
+column;ProductID;dbo;Invoices;TABLE;int;0
+column;ProductName;dbo;Invoices;TABLE;nvarchar;0
+column;UnitPrice;dbo;Invoices;TABLE;money;0
+column;Quantity;dbo;Invoices;TABLE;smallint;0
+column;Discount;dbo;Invoices;TABLE;real;0
+column;ExtendedPrice;dbo;Invoices;TABLE;money;1
+column;Freight;dbo;Invoices;TABLE;money;1
+column;OrderID;dbo;Order Details Extended;TABLE;int;0
+column;ProductID;dbo;Order Details Extended;TABLE;int;0
+column;ProductName;dbo;Order Details Extended;TABLE;nvarchar;0
+column;UnitPrice;dbo;Order Details Extended;TABLE;money;0
+column;Quantity;dbo;Order Details Extended;TABLE;smallint;0
+column;Discount;dbo;Order Details Extended;TABLE;real;0
+column;ExtendedPrice;dbo;Order Details Extended;TABLE;money;1
+column;OrderID;dbo;Order Subtotals;TABLE;int;0
+column;Subtotal;dbo;Order Subtotals;TABLE;money;1
+column;CategoryName;dbo;Product Sales for 1997;TABLE;nvarchar;0
+column;ProductName;dbo;Product Sales for 1997;TABLE;nvarchar;0
+column;ProductSales;dbo;Product Sales for 1997;TABLE;money;1
+column;CategoryName;dbo;Category Sales for 1997;TABLE;nvarchar;0
+column;CategorySales;dbo;Category Sales for 1997;TABLE;money;1
+column;CategoryID;dbo;Sales by Category;TABLE;int;0
+column;CategoryName;dbo;Sales by Category;TABLE;nvarchar;0
+column;ProductName;dbo;Sales by Category;TABLE;nvarchar;0
+column;ProductSales;dbo;Sales by Category;TABLE;money;1
+column;SaleAmount;dbo;Sales Totals by Amount;TABLE;money;1
+column;OrderID;dbo;Sales Totals by Amount;TABLE;int;0
+column;CompanyName;dbo;Sales Totals by Amount;TABLE;nvarchar;0
+column;ShippedDate;dbo;Sales Totals by Amount;TABLE;datetime;1
+column;ShippedDate;dbo;Summary of Sales by Quarter;TABLE;datetime;1
+column;OrderID;dbo;Summary of Sales by Quarter;TABLE;int;0
+column;Subtotal;dbo;Summary of Sales by Quarter;TABLE;money;1
+column;ShippedDate;dbo;Summary of Sales by Year;TABLE;datetime;1
+column;OrderID;dbo;Summary of Sales by Year;TABLE;int;0
+column;Subtotal;dbo;Summary of Sales by Year;TABLE;money;1
+column;CustomerID;dbo;CustomerCustomerDemo;TABLE;nchar;0
+column;CustomerTypeID;dbo;CustomerCustomerDemo;TABLE;nchar;0
+column;CustomerTypeID;dbo;CustomerDemographics;TABLE;nchar;0
+column;CustomerDesc;dbo;CustomerDemographics;TABLE;ntext;1
+column;RegionID;dbo;Region;TABLE;int;0
+column;RegionDescription;dbo;Region;TABLE;nchar;0
+column;TerritoryID;dbo;Territories;TABLE;nvarchar;0
+column;TerritoryDescription;dbo;Territories;TABLE;nchar;0
+column;RegionID;dbo;Territories;TABLE;int;0
+column;EmployeeID;dbo;EmployeeTerritories;TABLE;int;0
+column;TerritoryID;dbo;EmployeeTerritories;TABLE;nvarchar;0
+

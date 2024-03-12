@@ -1,0 +1,9 @@
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\bin\Debug\data.csv
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\stasikk\Desktop\code-review\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.pdb
